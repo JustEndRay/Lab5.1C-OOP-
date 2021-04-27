@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1C(OOP)\LongLong.h(26,107): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1C(OOP)\UnitTest1\UnitTest1.cpp(3,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1C(OOP)\LongLong.cpp(59,82): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1C(OOP)\LongLong.cpp(85): warning C4715: 'operator>': not all control paths return a value
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1C(OOP)\LongLong.cpp(95): warning C4715: 'operator<': not all control paths return a value
+     Creating library D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1C(OOP)\Debug\UnitTest1.lib and object D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1C(OOP)\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1C(OOP)\Debug\UnitTest1.dll
